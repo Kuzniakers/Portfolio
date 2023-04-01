@@ -17,6 +17,7 @@ Welcome ! My name is Konrad Kuźniak, and I am an Information Technology student
   - Creating test cases
   - Reporting bugs
   - MSSQL
+  - Soon: React.js
   - Soon: Python
 # Certificates
   - [Course completion diploma - "Zawód Tester"](https://i.imgur.com/b9VCHE8.png) 
