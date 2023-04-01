@@ -27,8 +27,8 @@ Welcome ! My name is Konrad Kuźniak, and I am an Information Technology student
   - Udemy.com courses from: C#, HTML & CSS, JavaScript, SQL
   - A week-long course on HTML and CSS language made by GoIT
 # Books
-  - R.Smilgin - "Zawód tester"
-  - Mark J.Price - "C# 10 i .Net 6 dla programistów aplikacji wieliplatformowych"
+  - Radosław Smilgin - "Zawód tester"
+  - Mark J.Price - "C# 10 i .Net 6 dla programistów aplikacji wieloplatformowych"
   - Larry Rockoff - "Język SQL przyjazny podręcznik"
   - Mirosław Kubiak - "C# zadania z programowania z przykładowymi roziązaniami"
   - Marcin Moskała - "JavaScript od podstaw"
