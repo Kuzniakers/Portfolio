@@ -5,13 +5,13 @@ Welcome ! My name is Konrad Kuźniak, and I am an Information Technology student
 
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/), [Test Arena](http://testarena.pl/) - Issue tracking and project management tool for developers
+  - Visual Studio & Visual Studio Code - Development environments
   - GitHub
    
 # Tech skills
   - C#
   - .Net
-  - HTML5
-  - CSS3
+  - HTML5 & CSS3
   - JavaScript
   - Software testing
   - Creating test cases
