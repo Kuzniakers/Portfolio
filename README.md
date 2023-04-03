@@ -22,6 +22,7 @@ Welcome ! My name is Konrad Kuźniak, and I am an Information Technology student
 # Certificates
   - [Course completion diploma - "Zawód Tester"](https://i.imgur.com/b9VCHE8.png) 
   - [Course completion diploma - "Zdalne praktyki z zakresu testowania oprogramowania"](https://i.imgur.com/RGpqjqc.png)
+  - Soon: ISTQB
 # Courses
   - Software tester course made by testerzy.pl
   - Udemy.com courses from: C#, HTML & CSS, JavaScript, SQL
