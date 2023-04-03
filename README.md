@@ -16,8 +16,8 @@ Welcome ! My name is Konrad Kuźniak, and I am an Information Technology student
   - Software testing
   - Creating test cases
   - Reporting bugs
-  - MSSQL
-  - Soon: React.js
+  - MySQL
+  - Soon: Selenium
   - Soon: Python
 # Certificates
   - [Course completion diploma - "Zawód Tester"](https://i.imgur.com/b9VCHE8.png) 
@@ -25,7 +25,8 @@ Welcome ! My name is Konrad Kuźniak, and I am an Information Technology student
 # Courses
   - Software tester course made by testerzy.pl
   - Udemy.com courses from: C#, HTML & CSS, JavaScript, SQL
-  - A week-long course on HTML and CSS language made by GoIT
+  - A week-long course on HTML and CSS language organized by GoIT
+  - Webinar "QA Engineer" organized by GoIT 
 # Books
   - Radosław Smilgin - "Zawód tester"
   - Mark J.Price - "C# 10 i .Net 6 dla programistów aplikacji wieloplatformowych"
