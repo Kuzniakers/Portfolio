@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-Welcome ! My name is Konrad Kuźniak, and I am an Information Technology student at WSB University in Chorzów a beginner tester. I have a strong desire to improve my testing skills and knowledge, and I am always seeking new challenges and opportunities to learn. With a solid foundation in testing methodologies and tools, as well as experience with manual testing, I am well-equipped to contribute to any testing team. In my free time, I enjoy staying active through various sports and exploring the latest developments in the world of technology and the web. 
+Welcome ! My name is Konrad Kuźniak, and I am an Information Technology student at WSB University in Chorzów. I have a strong desire to improve my testing skills and knowledge, and I am always seeking new challenges and opportunities to learn. With a solid foundation in testing methodologies and tools, as well as experience with manual testing, I am well-equipped to contribute to any testing team. In my free time, I enjoy staying active through various sports and exploring the latest developments in the world of technology and the web. 
 # Tools
 
   - [Postman](https://www.postman.com/) - Testing tool for REST API
