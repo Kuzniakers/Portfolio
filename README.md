@@ -27,7 +27,7 @@ Welcome ! My name is Konrad Kuźniak, and I am an Information Technology student
   - Software tester course made by testerzy.pl
   - Udemy.com courses from: C#, HTML & CSS, JavaScript, SQL
   - A week-long course on HTML and CSS language organized by GoIT
-  - Webinar "QA Engineer" organized by GoIT 
+  - 4-day marathon conducted by GoIT regarding QA engineer with practice
 # Books
   - Radosław Smilgin - "Zawód tester"
   - Mark J.Price - "C# 10 i .Net 6 dla programistów aplikacji wieloplatformowych"
