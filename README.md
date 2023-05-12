@@ -4,6 +4,7 @@ Welcome ! My name is Konrad Kuźniak, and I am an Information Technology student
 # Tools
 
   - [Postman](https://www.postman.com/) - Testing tool for REST API
+  - [JMeter](https://jmeter.apache.org/) - Testing tool for  load testing and performance testing,
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/), [Test Arena](http://testarena.pl/), [TestRail](https://www.testrail.com/) - Issue tracking and project management tool for developers
   - [Visual Studio & Visual Studio Code](https://visualstudio.microsoft.com/pl/) - Development environments
   - [GitHub](https://github.com/Kuzniakers)
